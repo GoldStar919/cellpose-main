@@ -51,7 +51,7 @@ and updated GUI:
 
 Mxnet is no longer supported in cellpose. To use mxnet, please use v1.0.2.
 
-# Installation
+# Installation 
 
 ## Local installation (< 2 minutes)
 
